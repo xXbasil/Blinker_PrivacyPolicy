@@ -1,14 +1,14 @@
 # Privacy Policy – Blinker | Eye Rest
 
-**Effective Date:** 13/7/2025
+**Effective Date:** 28/9/2025
 
 Blinker | Eye Rest respects your privacy. This app helps you take healthy breaks from screen time to reduce eye strain and support your wellbeing, with **no data tracking**, **no network access**, and **no personal data collection**.
 
 ---
 
-## Paid Application
+## Free Application
 
-Blinker | Eye Rest is a **one-time paid** app. After purchasing it from the App Store, all features are unlocked with:
+Blinker | Eye Rest is a completely **free** app. All features are available with:
 
 - No subscriptions  
 - No ads  
